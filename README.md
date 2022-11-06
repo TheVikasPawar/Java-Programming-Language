@@ -1,6 +1,6 @@
 # Java-Programming-Language
 
-Overview of Java
+**#Overview of Java**
 
 Introduction to Java
 
@@ -16,8 +16,9 @@ Java Development Kit (JDK), JRE and JVM
 
 How to Download and Install Eclipse on Windows?
 
+--------------------------------------------------
 
-Basics of Java
+**#Basics of Java**
 
 Java Basic Syntax
 
@@ -39,9 +40,9 @@ Keywords
 
 Input/Output in Java
 
+--------------------------------------------------
 
-
-Operators in Java
+**#Operators in Java**
 
 Arithmetic Operator
 
@@ -57,9 +58,9 @@ Ternary Operator
 
 Bitwise Operator
 
+--------------------------------------------------
 
-
-Flow Control in Java
+**#Flow Control in Java**
 
 Decision making in Java
 
@@ -85,17 +86,15 @@ Break Statement In Java
 
 Return Statement in Java
 
+--------------------------------------------------
 
+**#Strings in Java**
 
-Strings in Java
+**#Arrays in Java**
 
+--------------------------------------------------
 
-
-Arrays in Java
-
-
-
-OOPS in Java
+**#OOPS in Java**
 
 OOPS Concept in Java
 
@@ -113,7 +112,7 @@ Destructor
 
 
 
-Four pillars of OOPS in Java
+**#Four pillars of OOPS in Java**
 
 Inheritance in Java
 
@@ -125,6 +124,7 @@ Polymorphism in Java
 
 Interfaces in Java
 
+--------------------------------------------------
 
 Packages in Java
 
